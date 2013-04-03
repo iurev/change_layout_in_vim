@@ -70,7 +70,6 @@ git clone https://github.com/wwju/change_layout_in_vim.git
 ```
 cd ~/.change_layout
 chmod +x cl.sh
-chmod +x change_layout.sh
 ```
 
 * устанавливаем сочетание клавиш для смены раскладки
